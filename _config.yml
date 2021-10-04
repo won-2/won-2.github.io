@@ -2,7 +2,7 @@ title: Wonni
 author: Abhinav Saxena
 url: https://www.abhinavsaxena.com/moonwalk # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Welcome !! \n
+  Welcome !!  
   Wonni 학습 블로그 입니다.
 
 permalink: /:slug.html
@@ -48,3 +48,6 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-soopr-seo-tag
+
+gems:
+  - jekyll-seo-tag
